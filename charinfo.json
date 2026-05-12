@@ -1,1 +1,17 @@
-{"c2dictionary":true,"data":{"nome_name":"Nome","nome_textCount":2,"nome_costLimit":3,"nome_text0":"Hello World!","nome_text1":"using namespace std;¨¨ and yet...¨¨ ¨¨it moves aquele jogo lá sla","nome_text2":"> Funny¨¨> Moments¨¨> Hell¨¨> Yeah","null_name":"0","null_textCount":2,"null_text0":"0","null_text1":"0","null_text2":">0¨¨>0¨¨>0¨¨>0"}}
+{
+    "c2dictionary":true,
+    "data":
+    {
+        "nome_name":"Nome",
+        "nome_textCount":2,
+        "nome_costLimit":3,
+        "nome_text0":"Hello World!",
+        "nome_text1":"using namespace std;¨¨ and yet...¨¨ ¨¨it moves aquele jogo lá sla",
+        "nome_text2":"> Funny¨¨> Moments¨¨> Hell¨¨> Yeah",
+        "null_name":"0",
+        "null_textCount":2,
+        "null_text0":"0",
+        "null_text1":"0",
+        "null_text2":">0¨¨>0¨¨>0¨¨>0"
+    }
+}

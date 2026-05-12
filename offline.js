@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1770147087,
+	"version": 1778607763,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -238,6 +238,10 @@
 		"videoinfos.json",
 		"drawnames.json",
 		"gameurl.json",
-		"videosarray.json"
+		"videosarray.json",
+		"rabiscotype.woff2",
+		"teamtype.woff2",
+		"teamtype.ttf",
+		"rabiscotype.ttf"
 	]
 }
